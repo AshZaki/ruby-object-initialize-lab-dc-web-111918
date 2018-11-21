@@ -20,6 +20,5 @@ class Dog
   end
 end
 
-lassie = Dog.new("Collie")
- 
-lassie.breed
+fido = Dog.new("Collie")
+fido.name
