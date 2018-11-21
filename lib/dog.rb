@@ -5,3 +5,4 @@ class Dog
   end
 end
 
+benley = Doc.new("Benley","Pug")
