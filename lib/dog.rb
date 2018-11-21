@@ -8,5 +8,3 @@ class Dog
   end
 end
 
-benley = Dog.new("Benley", "Pug")
-benley.name
