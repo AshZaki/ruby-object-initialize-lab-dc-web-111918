@@ -9,3 +9,4 @@ class Dog
 end
 
 benley = Dog.new("Benley", "Pug")
+benley
