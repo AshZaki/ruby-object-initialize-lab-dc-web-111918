@@ -16,4 +16,6 @@ class Dog
   end
 end
 
-snoopy = Dog.new
+lassie = Dog.new("Collie")
+ 
+lassie.breed
